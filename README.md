@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm Gordon, a Year 1 Computer Sciences student at Universiti Sains Malaysia.</h3>
+<h3 align="center">Hi 👋! I'm Gordon, a Year 1 Computer Sciences student at Universiti Sains Malaysia.</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/gordon-chai/"
+    <a href="https://www.linkedin.com/in/gordon-chai/" target="_blank"
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
