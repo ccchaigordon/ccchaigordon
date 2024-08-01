@@ -38,8 +38,6 @@
   <img width = "12" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height = "30" alt = "jupyter logo" />
   <img width = "12" />
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height = "30" alt = "LaTeX logo" />
-  <img width = "12" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height = "30" alt = "photoshop logo" />
   <img width = "12" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "30" alt = "premiere pro logo" />
