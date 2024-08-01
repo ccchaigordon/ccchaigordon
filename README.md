@@ -1,10 +1,10 @@
-<h2 align = "left">Hi 👋! I'm Gordon, a Year 1 Computer Sciences student at Universiti Sains Malaysia.</h2>
+<h3 align = "left">Hi 👋! I'm Gordon, a Year 1 Computer Sciences student at Universiti Sains Malaysia.</h3>
 
 ###
 
 <div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height = "150" alt = "languages graph"  />
+  <img src = "https://github-readme-stats.vercel.app/api?username=ccchaigordon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ccchaigordon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height = "150" alt = "languages graph"  />
 </div>
 
 ###
@@ -35,6 +35,16 @@
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height = "30" alt = "git logo" />
   <img width = "12" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height = "30" alt = "illustrator logo" />
+  <img width = "12" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height = "30" alt = "jupyter logo" />
+  <img width = "12" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height = "30" alt = "LaTeX logo" />
+  <img width = "12" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height = "30" alt = "photoshop logo" />
+  <img width = "12" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" height = "30" alt = "premiere pro logo" />
+  <img width = "12" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height = "30" alt = "vuejs logo" />
 </div>
 
 ###
