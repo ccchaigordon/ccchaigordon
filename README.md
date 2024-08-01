@@ -2,7 +2,7 @@
     Hello there🤘
 </h1>
 
-<p> align = "center">
+<p align = "center">
     I'm Gordon, a Year 1 Computer Science student at Universiti Sains Malaysia. Driven by a deep passion for Artificial Intelligence, I actively seek opportunities to expand my expertise in fullstack web development, AI, deep learning, and other areas within the realm of Computer Sciences.
 </p>
 
