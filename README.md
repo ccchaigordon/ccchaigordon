@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! I'm Gordon, a Year 1 Computer Sciences student at Universiti Sains Malaysia.</h3>
+<h3 align="center">Hi 👋! I'm Gordon, a Year 2 Computer Sciences student at Universiti Sains Malaysia.</h3>
 
 ###
 
