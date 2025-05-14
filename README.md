@@ -51,6 +51,24 @@
 	<img width="25" height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 
+<br>
+
+```typescript
+class Profile {
+  name: string;
+  role: string[];
+  language: string[];
+
+  constructor() {
+    this.name = "Gordon Chai";
+    this.role = ["Student", "Web Developer", "Creative Director"];
+    this.language = ["en_US", "zh_CN", "ms_MY", "ko_KR"];
+  }
+}
+
+console.log("Feel free to reach me at chaigordon75@gmail.com");
+```
+
 <br><br><br>
 
 <div>
