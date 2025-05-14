@@ -24,8 +24,8 @@
 
 <br>
 
-<div align="center" style="width:80%; margin:0 auto;">
-    <table width="100%" style="background-color: #011627; border: 1px solid white; border-radius: 7px;">
+<div align="center" style="width:70%; margin: 0 auto;">
+    <table width="100%" style="background-color: #011627; border: 2px solid white; border-radius: 7px;">
       <tr>
         <td align="center" style="padding: 20px;">
           <img width="30" style="margin: 3px 5px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/astro.png" alt="Astro" title="Astro"/>
