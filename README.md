@@ -53,26 +53,6 @@
 
 <br><br><br>
 
-```typescript
-/* Profile */
-
-class Profile {
-  name: string;
-  role: string[];
-  language: string[];
-
-  constructor() {
-    this.name = "Gordon Chai";
-    this.role = ["Student", "Web Developer", "Creative Director"];
-    this.language = ["en_US", "zh_CN", "ms_MY", "ko_KR"];
-  }
-}
-
-console.log("Feel free to reach me at chaigordon75@gmail.com");
-```
-
-<br><br><br>
-
 <div>
   <img src="public/wave-bottom.svg" width="100%"/>
 </div>
