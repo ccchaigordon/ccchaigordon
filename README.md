@@ -1,4 +1,8 @@
-<div style="display: flex; margin: 20px 0; flex-direction: column; align-items: center; gap: 12px">
+<div>
+  <img src="public/wave-top.svg" width="100%" style="margin-bottom: 25px"/>
+</div>
+
+<div style="display: flex; margin: 20px 0; flex-direction: column; align-items: center; justify-content: center; gap: 12px">
   <img src="public/profile.png" height="150" width="auto" style="border-radius: 50%;"></img>
   <h3 align="center">Hi, I'm Gordon, an Intelligent Computing major at Universiti Sains Malaysia (USM)
   </h3>
@@ -45,4 +49,6 @@
     <img width="30" style="margin: 3px 5px; opacity: 0.8;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
 </div>
 
-<div><img src="public/wave.svg" /></div>
+<div>
+  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 100px"/>
+</div>
