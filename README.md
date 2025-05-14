@@ -2,8 +2,7 @@
   <img src="public/wave-top.svg" width="100%" style="margin-bottom: 25px"/>
 </div>
 
-<div style="display: flex; margin: 20px 0; flex-direction: column; align-items: center; justify-content: center; gap: 12px">
-  <img src="public/profile.png" height="150" width="auto" style="border-radius: 50%;"></img>
+<div style="display: flex; margin: 10px 0; flex-direction: column; align-items: center; justify-content: center; gap: 12px">
   <h3 align="center">Hi, I'm Gordon, an Intelligent Computing major at Universiti Sains Malaysia (USM)
   </h3>
 </div>
@@ -50,5 +49,5 @@
 </div>
 
 <div>
-  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 100px"/>
+  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 150px"/>
 </div>
