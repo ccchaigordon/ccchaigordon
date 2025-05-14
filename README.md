@@ -49,5 +49,5 @@
 </div>
 
 <div>
-  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 150px"/>
+  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 250px" />
 </div>
