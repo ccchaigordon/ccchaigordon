@@ -48,6 +48,8 @@
     <img width="30" style="margin: 3px 5px; opacity: 0.8;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/>
 </div>
 
+<br><br><br>
+
 <div>
-  <img src="public/wave-bottom.svg" width="100%" style="margin-top: 250px" />
+  <img src="public/wave-bottom.svg" width="100%"/>
 </div>
