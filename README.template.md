@@ -26,18 +26,13 @@
     <td align="center">Completed</td>
   </tr>
 </table>
-<br/>
 <h4>Recent Pull Requests</h4>
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <table width="100%">
-        {{range recentPullRequests 5}}
-        <tr>
-          <td><a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> <sub>({{humanize .CreatedAt}})</sub></td>
-        </tr>
-        {{- end}}
-      </table>
+      {{range recentPullRequests 5}}
+      <a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> <sub>({{humanize .CreatedAt}})</sub><br><br>
+      {{- end}}
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="220" />
