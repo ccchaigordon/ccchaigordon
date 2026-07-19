@@ -4,21 +4,28 @@
 
 #### Project Highlights
 
-| Project                                                                                                                                                                                                                                        | Progress  |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
-| **[Shun](https://github.com/ccchaigordon/shun)**<br><sub>A local Rust CLI for explainable repository search, related-file discovery, and stale documentation detection.</sub>                                                                  |  Active   |
-| **[Product Lifecycle Warranty Platform](https://github.com/ccchaigordon/MasChain-Product-Lifecycle-Warranty-Platform)**<br><sub>An on‑chain escrow with ERC‑20 integration (create/pay, confirm, release/refund) and allowance handling.</sub> | Completed |
-| **[Better Reviews](https://github.com/ccchaigordon/Better-Reviews)**<br><sub>A lightweight web app that generates and game reviews with predefined, customizable options.</sub>                                                                | Deployed  |
-| **[Dermatology Diagnosis Classifier](https://github.com/ccchaigordon/Dermatology-Diagnosis-Classifier)**<br><sub>A reproducible, leak-free scikit-learn pipeline for multi-class dermatology diagnosis and model comparison.</sub>             | Completed |
+| Project                                                                                                                                                                                                                           | Progress  |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| **[Shun](https://github.com/ccchaigordon/shun)**: A local Rust CLI for explainable repository search, related-file discovery, and stale documentation detection.                                                                  |  Active   |
+| **[Product Lifecycle Warranty Platform](https://github.com/ccchaigordon/MasChain-Product-Lifecycle-Warranty-Platform)**: An on‑chain escrow with ERC‑20 integration (create/pay, confirm, release/refund) and allowance handling. | Completed |
+| **[Better Reviews](https://github.com/ccchaigordon/Better-Reviews)**: A lightweight web app that generates and game reviews with predefined, customizable options.                                                                | Deployed  |
+| **[Dermatology Diagnosis Classifier](https://github.com/ccchaigordon/Dermatology-Diagnosis-Classifier)**: A reproducible, leak-free scikit-learn pipeline for multi-class dermatology diagnosis and model comparison.             | Completed |
 
-<hr>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h4>Recent Pull Requests</h4>
+      {{range recentPullRequests 5}}
+      <a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> <sub>({{humanize .CreatedAt}})</sub><br><br>
+      {{- end}}
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="220" />
+    </td>
+  </tr>
+</table>
 
-#### Recent Pull Requests
-
-{{range recentPullRequests 5}}
-
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
+<br/>
 
 ---
 
