@@ -32,11 +32,22 @@
   <tr>
     <td width="70%" valign="top">
       <table width="100%">
-        {{range recentPullRequests 5}}
+        
         <tr>
-          <td><a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> <sub>({{humanize .CreatedAt}})</sub></td>
+          <td><a href="https://github.com/ccchaigordon/shun/pull/9">Chore/repository readiness</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <sub>(today)</sub></td>
         </tr>
-        {{- end}}
+        <tr>
+          <td><a href="https://github.com/ccchaigordon/shun/pull/8">Feat/persistence cli controls</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <sub>(today)</sub></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/ccchaigordon/shun/pull/7">Feat/documentation audit related files</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <sub>(today)</sub></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/ccchaigordon/shun/pull/6">Feat/rust symbols overview</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <sub>(today)</sub></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/ccchaigordon/shun/pull/5">Feat/bm25 grouped results</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <sub>(1 day ago)</sub></td>
+        </tr>
       </table>
     </td>
     <td width="30%" align="center" valign="middle">
