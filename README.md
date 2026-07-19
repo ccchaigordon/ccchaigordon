@@ -15,10 +15,17 @@
 
 #### Recent Pull Requests
 
-{{range recentPullRequests 5}}
 
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
+
+- [Chore/repository readiness](https://github.com/ccchaigordon/shun/pull/9) on [ccchaigordon/shun](https://github.com/ccchaigordon/shun) (today)
+
+- [Feat/persistence cli controls](https://github.com/ccchaigordon/shun/pull/8) on [ccchaigordon/shun](https://github.com/ccchaigordon/shun) (today)
+
+- [Feat/documentation audit related files](https://github.com/ccchaigordon/shun/pull/7) on [ccchaigordon/shun](https://github.com/ccchaigordon/shun) (today)
+
+- [Feat/rust symbols overview](https://github.com/ccchaigordon/shun/pull/6) on [ccchaigordon/shun](https://github.com/ccchaigordon/shun) (today)
+
+- [Feat/bm25 grouped results](https://github.com/ccchaigordon/shun/pull/5) on [ccchaigordon/shun](https://github.com/ccchaigordon/shun) (1 day ago)
 
 ---
 
