@@ -26,15 +26,9 @@
     <td align="center">Completed</td>
   </tr>
 </table>
-<h4>Recent Pull Requests</h4>
-<table width="100%">
-<tr>
-<td width="70%" valign="top"><a href="https://github.com/ccchaigordon/shun/pull/9">Chore/repository readiness</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <p>(today)</p><br><br><a href="https://github.com/ccchaigordon/shun/pull/8">Feat/persistence cli controls</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <p>(today)</p><br><br><a href="https://github.com/ccchaigordon/shun/pull/7">Feat/documentation audit related files</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <p>(today)</p><br><br><a href="https://github.com/ccchaigordon/shun/pull/6">Feat/rust symbols overview</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <p>(today)</p><br><br><a href="https://github.com/ccchaigordon/shun/pull/5">Feat/bm25 grouped results</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> <p>(1 day ago)</p><br><br></td>
-<td width="30%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="180" /></td>
-</tr>
-</table>
+#### Recent Pull Requests
 
-<br/>
+<table width="100%"><tr><td width="70%" valign="middle"><div><a href="https://github.com/ccchaigordon/shun/pull/9">Chore/repository readiness</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> (today)</div><div><a href="https://github.com/ccchaigordon/shun/pull/8">Feat/persistence cli controls</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> (today)</div><div><a href="https://github.com/ccchaigordon/shun/pull/7">Feat/documentation audit related files</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> (today)</div><div><a href="https://github.com/ccchaigordon/shun/pull/6">Feat/rust symbols overview</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> (today)</div><div><a href="https://github.com/ccchaigordon/shun/pull/5">Feat/bm25 grouped results</a> on <a href="https://github.com/ccchaigordon/shun">ccchaigordon/shun</a> (1 day ago)</div></td><td width="30%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="180" /></td></tr></table>
 
 ---
 

@@ -26,15 +26,10 @@
     <td align="center">Completed</td>
   </tr>
 </table>
-<h4>Recent Pull Requests</h4>
-<table width="100%">
-<tr>
-<td width="70%" valign="top">{{range recentPullRequests 5}}<a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> <p>({{humanize .CreatedAt}})</p><br><br>{{- end}}</td>
-<td width="30%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="180" /></td>
-</tr>
-</table>
 
-<br/>
+#### Recent Pull Requests
+
+<table width="100%"><tr><td width="70%" valign="middle">{{range recentPullRequests 5}}<div><a href="{{.URL}}">{{.Title}}</a> on <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> ({{humanize .CreatedAt}})</div>{{end}}</td><td width="30%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="150" /></td></tr></table>
 
 ---
 
