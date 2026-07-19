@@ -10,19 +10,19 @@
     <th align="center" width="15%">Progress</th>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/ccchaigordon/shun">Shun</a></strong><br><sub>A local Rust CLI for explainable repository search, related-file discovery, and stale documentation detection.</sub></td>
+    <td><strong><a href="https://github.com/ccchaigordon/shun">Shun</a></strong>: A local Rust CLI for explainable repository search, related-file discovery, and stale documentation detection.</sub></td>
     <td align="center">Active</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/ccchaigordon/MasChain-Product-Lifecycle-Warranty-Platform">Product Lifecycle Warranty Platform</a></strong><br><sub>An on-chain escrow with ERC-20 integration (create/pay, confirm, release/refund) and allowance handling.</sub></td>
+    <td><strong><a href="https://github.com/ccchaigordon/MasChain-Product-Lifecycle-Warranty-Platform">Product Lifecycle Warranty Platform</a></strong>: An on-chain escrow with ERC-20 integration (create/pay, confirm, release/refund) and allowance handling.</sub></td>
     <td align="center">Completed</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/ccchaigordon/Better-Reviews">Better Reviews</a></strong><br><sub>A lightweight web app that generates game reviews with predefined, customizable options.</sub></td>
+    <td><strong><a href="https://github.com/ccchaigordon/Better-Reviews">Better Reviews</a></strong>: A lightweight web app that generates game reviews with predefined, customizable options.</sub></td>
     <td align="center">Deployed</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/ccchaigordon/Dermatology-Diagnosis-Classifier">Dermatology Diagnosis Classifier</a></strong><br><sub>A reproducible, leak-free scikit-learn pipeline for multi-class dermatology diagnosis and model comparison.</sub></td>
+    <td><strong><a href="https://github.com/ccchaigordon/Dermatology-Diagnosis-Classifier">Dermatology Diagnosis Classifier</a></strong>: A reproducible, leak-free scikit-learn pipeline for multi-class dermatology diagnosis and model comparison.</sub></td>
     <td align="center">Completed</td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
       {{- end}}
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="220" />
+      <img src="https://raw.githubusercontent.com/ccchaigordon/ccchaigordon/main/assets/bocchi-spin.gif" alt="Bocchi spinning" width="180" />
     </td>
   </tr>
 </table>
